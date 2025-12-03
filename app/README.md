@@ -41,8 +41,12 @@ app/
 - The final Random Forest model is saved in `models/rf_model.pkl`.
 
 ## Deployment
-- Dockerfile included for containerized deployment
-- All static assets served from the `assets/` folder
+All static assets are served from the `assets/` folder.
+
+To deploy locally:
+1. Install dependencies: `pip install -r requirements.txt`
+2. Run the FastAPI server: `uvicorn server:app --reload`
+3. Open `localhost:8000` in your browser to access the app.
 
 ## Dataset Source
 This project uses the Student Performance dataset from Kaggle:
