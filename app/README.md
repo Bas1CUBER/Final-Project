@@ -56,7 +56,13 @@ https://www.kaggle.com/datasets/whenamancodes/student-performance
 - OCHOCO, John Patrick B.
 
 ## License
-Check dataset and code licensing before public sharing.
+This project is released under the MIT License for all code and assets.
+The dataset is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0) from Kaggle.
+See LICENSE file for details.
 
 ## Contact
-For questions or collaboration, please contact the team via project repository or provided emails.
+For questions or collaboration, please open an issue or discussion on the GitHub repository:
+https://github.com/Bas1CUBER/Final-Project
+
+Or email the leaeder at:
+odreip@gmail.com
