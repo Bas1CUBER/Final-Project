@@ -1,7 +1,4 @@
-# Final-Project
-ITTE 105b: Analytics Application Subject
-
-# 🎓 GradePilot — Advanced Analytics for Educational Performance Prediction
+# Final-Project: 🎓 GradePilot — Advanced Analytics for Educational Performance Prediction
 
 > **ITTE 105b: Analytics Application** | Final Project
 
